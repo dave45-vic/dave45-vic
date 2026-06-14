@@ -1,16 +1,23 @@
 # Hi, I'm David 👋
 
-I'm a Frontend Developer.
+Frontend Developer in Training
 
-## Skills
+I'm currently learning JavaScript and building projects to improve my frontend development skills.
+
+## 🚀 Skills
 - HTML
 - CSS
 - JavaScript
+- Git
+- GitHub
 
-## Projects
+## 📂 Projects
 - Weather App
 - Calculator App
 - Quiz App
 
-## Current Goal
-Become a Full Stack Developer.
+## 🎯 Current Goal
+Become a Full Stack Developer and build real-world web applications.
+
+## 📫 Connect With Me
+GitHub: https://github.com/dave45-vic
