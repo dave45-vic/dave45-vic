@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**dave45-vic/dave45-vic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Weather App
+- Calculator App
+- Quiz App
+
+## Current Goal
+Become a Full Stack Developer.
