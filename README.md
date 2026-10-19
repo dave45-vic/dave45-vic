@@ -12,9 +12,9 @@ I'm currently learning JavaScript and building projects to improve my frontend d
 - GitHub
 
 ## 📂 Projects
-- Weather App
-- Calculator App
-- Quiz App
+- Hydrualic Hose Tracker
+- LLM Workflow Studio
+- Modular Component Library
 
 ## 🎯 Current Goal
 Become a Full Stack Developer and build real-world web applications.
